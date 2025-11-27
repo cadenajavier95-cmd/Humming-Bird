@@ -1,0 +1,1682 @@
+{
+  "Acura": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Alfa Romeo": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Aston Martin": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Audi": [
+    {
+      "name": "A3",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "A4",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "A6",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Q3",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "Q5",
+      "type": "SUV",
+      "subtiers": [
+        "Mid-Size"
+      ]
+    },
+    {
+      "name": "Q7",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    },
+    {
+      "name": "TT",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    },
+    {
+      "name": "RS5",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Bentley": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "BMW": [
+    {
+      "name": "3 Series",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "5 Series",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "7 Series",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "X3",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "X5",
+      "type": "SUV",
+      "subtiers": [
+        "Mid-Size"
+      ]
+    },
+    {
+      "name": "M3",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door",
+        "4-Door"
+      ]
+    },
+    {
+      "name": "M5",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Z4",
+      "type": "Roadster",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Bugatti": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Buick": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Cadillac": [
+    {
+      "name": "Escalade",
+      "type": "SUV",
+      "subtiers": [
+        "Standard",
+        "ESV"
+      ]
+    },
+    {
+      "name": "CT4",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "CT5",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "XT4",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "XT5",
+      "type": "SUV",
+      "subtiers": [
+        "Mid-Size"
+      ]
+    },
+    {
+      "name": "XT6",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    }
+  ],
+  "Chevrolet": [
+    {
+      "name": "Malibu",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Cruze",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Camaro",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    },
+    {
+      "name": "Corvette",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door",
+        "Targa"
+      ]
+    },
+    {
+      "name": "Silverado",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "Colorado",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "Equinox",
+      "type": "SUV",
+      "subtiers": [
+        "Standard"
+      ]
+    },
+    {
+      "name": "Tahoe",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    }
+  ],
+  "Chrysler": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Citroen": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Dacia": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Daewoo": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Daihatsu": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Dodge": [
+    {
+      "name": "Charger",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Challenger",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    },
+    {
+      "name": "Ram",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "Durango",
+      "type": "SUV",
+      "subtiers": [
+        "2-Row",
+        "3-Row"
+      ]
+    },
+    {
+      "name": "Journey",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    }
+  ],
+  "Donkervoort": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Ferrari": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Fiat": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Fisker": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Ford": [
+    {
+      "name": "Mustang",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door",
+        "4-Door"
+      ]
+    },
+    {
+      "name": "F-150",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "Escape",
+      "type": "SUV",
+      "subtiers": [
+        "Standard",
+        "Hybrid"
+      ]
+    },
+    {
+      "name": "Explorer",
+      "type": "SUV",
+      "subtiers": [
+        "2-Row",
+        "3-Row"
+      ]
+    },
+    {
+      "name": "Focus",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Fusion",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Ranger",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "Edge",
+      "type": "SUV",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "GMC": [
+    {
+      "name": "Sierra",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "Yukon",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    },
+    {
+      "name": "Terrain",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "Acadia",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    }
+  ],
+  "Great Wall": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Hindustan": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Hummer": [
+    {
+      "name": "H1",
+      "type": "SUV",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Hyundai": [
+    {
+      "name": "Elantra",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Sonata",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Santa Fe",
+      "type": "SUV",
+      "subtiers": [
+        "2-Row",
+        "3-Row"
+      ]
+    },
+    {
+      "name": "Tucson",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "Accent",
+      "type": "Sedan",
+      "subtiers": [
+        "2-Door",
+        "4-Door"
+      ]
+    }
+  ],
+  "Infiniti": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Isuzu": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Jaguar": [
+    {
+      "name": "Standard Model",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    }
+  ],
+  "Jeep": [
+    {
+      "name": "Wrangler",
+      "type": "SUV",
+      "subtiers": [
+        "2-Door",
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Cherokee",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "Grand Cherokee",
+      "type": "SUV",
+      "subtiers": [
+        "Mid-Size"
+      ]
+    },
+    {
+      "name": "Compass",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "Renegade",
+      "type": "SUV",
+      "subtiers": [
+        "Subcompact"
+      ]
+    }
+  ],
+  "Jensen": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Kia": [
+    {
+      "name": "Optima",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Sportage",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "Sorento",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    },
+    {
+      "name": "Forte",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Rio",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    }
+  ],
+  "Koenigsegg": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Lamborghini": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Lancia": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Land Rover": [
+    {
+      "name": "Standard Model",
+      "type": "SUV",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Lada": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Lexus": [
+    {
+      "name": "IS",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "ES",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "GS",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "LS",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "RX",
+      "type": "SUV",
+      "subtiers": [
+        "Compact",
+        "Hybrid"
+      ]
+    },
+    {
+      "name": "NX",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "GX",
+      "type": "SUV",
+      "subtiers": [
+        "Mid-Size"
+      ]
+    }
+  ],
+  "Ligier": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Lotus": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Maserati": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Maybach": [
+    {
+      "name": "Standard Model",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    }
+  ],
+  "Mazda": [
+    {
+      "name": "Mazda3",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Mazda6",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "CX-5",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "CX-9",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    },
+    {
+      "name": "MX-5",
+      "type": "Roadster",
+      "subtiers": [
+        "2-Door"
+      ]
+    },
+    {
+      "name": "RX-8",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "McLaren": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Mercedes-Benz": [
+    {
+      "name": "C-Class",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "E-Class",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "S-Class",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "GLA",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "GLE",
+      "type": "SUV",
+      "subtiers": [
+        "Mid-Size"
+      ]
+    },
+    {
+      "name": "AMG GT",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    },
+    {
+      "name": "Sprinter",
+      "type": "Van",
+      "subtiers": [
+        "Standard",
+        "Extended"
+      ]
+    }
+  ],
+  "Mercury": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "MG": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Microcar": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Mini": [
+    {
+      "name": "Standard Model",
+      "type": "Hatchback",
+      "subtiers": [
+        "3-Door",
+        "5-Door"
+      ]
+    }
+  ],
+  "Mitsubishi": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Morgan": [
+    {
+      "name": "Standard Model",
+      "type": "Roadster",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Morris": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Nissan": [
+    {
+      "name": "Altima",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Maxima",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Sentra",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Rogue",
+      "type": "SUV",
+      "subtiers": [
+        "Standard",
+        "Hybrid"
+      ]
+    },
+    {
+      "name": "Pathfinder",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    },
+    {
+      "name": "Frontier",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    }
+  ],
+  "Noble": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "NSU": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Pagani": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Panhard": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Panoz": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Perodua": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Peugeot": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Pontiac": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Porsche": [
+    {
+      "name": "911",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door",
+        "Targa"
+      ]
+    },
+    {
+      "name": "Boxster",
+      "type": "Roadster",
+      "subtiers": [
+        "2-Door"
+      ]
+    },
+    {
+      "name": "Cayman",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    },
+    {
+      "name": "Cayenne",
+      "type": "SUV",
+      "subtiers": [
+        "Mid-Size"
+      ]
+    },
+    {
+      "name": "Macan",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    }
+  ],
+  "Proton": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Ram": [
+    {
+      "name": "1500",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "2500",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "3500",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "ProMaster",
+      "type": "Van",
+      "subtiers": [
+        "Standard",
+        "Extended"
+      ]
+    }
+  ],
+  "Renault": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Renault Samsung": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Reva": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Rolls-Royce": [
+    {
+      "name": "Standard Model",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    }
+  ],
+  "Rover": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Saab": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Samsung": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Scion": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Seat": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Shuanghuan": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Skoda": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Smart": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Spyker": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "SsangYong": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Studebaker": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Subaru": [
+    {
+      "name": "Legacy",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Outback",
+      "type": "Wagon",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Impreza",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "WRX",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Crosstrek",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "Forester",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    }
+  ],
+  "Suzuki": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Tata": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Tesla": [
+    {
+      "name": "Model 3",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door",
+        "Dual-Motor"
+      ]
+    },
+    {
+      "name": "Model S",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door",
+        "Plaid"
+      ]
+    },
+    {
+      "name": "Model X",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    },
+    {
+      "name": "Model Y",
+      "type": "SUV",
+      "subtiers": [
+        "Compact",
+        "Dual-Motor"
+      ]
+    },
+    {
+      "name": "Roadster",
+      "type": "Roadster",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Toyota": [
+    {
+      "name": "Camry",
+      "type": "Sedan",
+      "subtiers": [
+        "2-Door",
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Corolla",
+      "type": "Sedan",
+      "subtiers": [
+        "2-Door",
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Supra",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    },
+    {
+      "name": "RAV4",
+      "type": "SUV",
+      "subtiers": [
+        "Standard",
+        "Hybrid"
+      ]
+    },
+    {
+      "name": "Prius",
+      "type": "Sedan",
+      "subtiers": [
+        "Standard",
+        "Plus",
+        "Prime"
+      ]
+    },
+    {
+      "name": "Highlander",
+      "type": "SUV",
+      "subtiers": [
+        "2-Row",
+        "3-Row"
+      ]
+    },
+    {
+      "name": "4Runner",
+      "type": "SUV",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Tundra",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    },
+    {
+      "name": "Tacoma",
+      "type": "Truck",
+      "subtiers": [
+        "Single-Cab",
+        "Double-Cab",
+        "Crew-Cab"
+      ]
+    }
+  ],
+  "Trabant": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Triumph": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "TVR": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Ultima": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Umm": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Vauxhall": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Vector": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Venturi": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Vignale": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Volkswagen": [
+    {
+      "name": "Golf",
+      "type": "Hatchback",
+      "subtiers": [
+        "3-Door",
+        "5-Door"
+      ]
+    },
+    {
+      "name": "Jetta",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Passat",
+      "type": "Sedan",
+      "subtiers": [
+        "4-Door"
+      ]
+    },
+    {
+      "name": "Beetle",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    },
+    {
+      "name": "Tiguan",
+      "type": "SUV",
+      "subtiers": [
+        "Compact"
+      ]
+    },
+    {
+      "name": "Atlas",
+      "type": "SUV",
+      "subtiers": [
+        "3-Row"
+      ]
+    }
+  ],
+  "Volvo": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Wartburg": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Westfield": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Wiesmann": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ],
+  "Willys": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Zastava": [
+    {
+      "name": "Standard Model",
+      "type": "Unknown",
+      "subtiers": [
+        "Standard"
+      ]
+    }
+  ],
+  "Zenvo": [
+    {
+      "name": "Standard Model",
+      "type": "Coupe",
+      "subtiers": [
+        "2-Door"
+      ]
+    }
+  ]
+}

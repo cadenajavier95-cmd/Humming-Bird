@@ -1,0 +1,9 @@
+*{box-sizing:border-box}
+body{font-family:Segoe UI,Roboto,Arial;margin:24px;background:#f7f9fb;color:#111}
+.container{max-width:720px;margin:0 auto;background:#fff;padding:20px;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
+h1{margin:0 0 16px;font-size:20px}
+.selectors{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+label{display:flex;flex-direction:column;font-size:13px}
+select{margin-top:6px;padding:8px;border-radius:6px;border:1px solid #d3dbe6;background:#fff}
+.summary{margin-top:16px;padding:12px;border-radius:6px;background:#f1f6fb;border:1px solid #e3eefb}
+small.note{display:block;margin-top:8px;color:#666}

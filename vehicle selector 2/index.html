@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Vehicle Selector Demo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <h1>Vehicle Selector</h1>
+
+    <div class="selectors">
+        <label>
+          Make
+          <div style="position:relative;">
+            <input id="makeInput" type="text" placeholder="Start typing a make (e.g. Toyota)" autocomplete="off">
+            <div id="makeSuggestions" class="suggestions" style="display:none;position:absolute;left:0;top:36px;width:100%;background:#fff;border:1px solid #ddd;z-index:30;max-height:200px;overflow:auto;border-radius:6px;"></div>
+          </div>
+        </label>
+
+        <label>
+          Model
+          <div style="position:relative;">
+            <input id="modelInput" type="text" placeholder="Start typing a model (e.g. Camry)" autocomplete="off" disabled>
+            <div id="modelSuggestions" class="suggestions" style="display:none;position:absolute;left:0;top:36px;width:100%;background:#fff;border:1px solid #ddd;z-index:30;max-height:200px;overflow:auto;border-radius:6px;"></div>
+          </div>
+        </label>
+
+      <label>
+        Vehicle Type
+        <select id="typeSelect" disabled>
+          <option value="">— Select Type —</option>
+        </select>
+      </label>
+
+      <label>
+        Subtier (Doors)
+        <select id="doorsSelect" disabled>
+          <option value="">— Select Doors —</option>
+        </select>
+      </label>
+    </div>
+
+    <div id="summary" class="summary">No selection yet.</div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
